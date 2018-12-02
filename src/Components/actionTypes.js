@@ -1,0 +1,1 @@
+export const SET_A = 'dummy::set_a'
